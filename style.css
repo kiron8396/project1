@@ -102,13 +102,15 @@ a:link{
    border-radius: 5px;
     padding: 30px;
     box-shadow: 0 5px 5px rgb(182, 182, 182);
+    
 }
 .card{
     text-align: center;
     margin: auto;
+    
 }
 .card-header h2 {
-    margin-bottom: 15px;
+    margin-bottom: 30px;
     text-align: center;
     font-size: 32px;
 }

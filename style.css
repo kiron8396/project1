@@ -41,7 +41,7 @@ a:link{
 .dashboard{
     display: flex;
     gap: 200px;
-   
+   align-items: flex-start;
     margin: auto;
 }
 .a-o-c{
@@ -130,4 +130,11 @@ a:link{
     border-radius: 50%;
     border: 2px solid white;
     margin: auto;
+}
+.H-U-N{
+    display: flex;
+    align-items: center;
+   text-align: center;
+   justify-content: space-between;
+   margin-bottom: 100px;
 }
